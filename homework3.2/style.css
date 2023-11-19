@@ -1,0 +1,71 @@
+.__logo {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer {
+    font-family: Roboto Slab;
+}
+
+.nav-item {
+    color: #5222D0;
+}
+
+.btn img {
+    width: 1.3rem;
+}
+
+header {
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.btn {
+    background-color: #5222D0;
+    color: white;
+    font-weight: bold;
+}
+
+.btn img {
+    width: 1.3rem;
+}
+
+.news__card {
+    background-color: rgb(236, 97, 91);
+    color: white;
+}
+
+.submit__button {
+    font-size: 0.5rem;
+}
+
+.card {
+    border: none;
+}
+
+footer {
+    margin-top: 30px;
+    color: black;
+}
+
+.container__title {
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-text {
+    font-family: Roboto Stab;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
