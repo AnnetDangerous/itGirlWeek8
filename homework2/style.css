@@ -1,0 +1,35 @@
+.nav-item a {
+    color: gray;
+}
+.navbar-brand {
+    color: white;
+}
+
+.nav-item .active {
+    color: white;
+}
+
+nav{
+    background-color: rgb(52, 58, 64, 1);
+}
+
+.card-header {
+    background-color: rgb(234, 236, 239, 1);
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+.container .row .col-3 {
+    justify-content: space-around;
+}
+
+footer {
+    background-color: rgb(52, 58, 64, 1);
+    color: white
+}
+
+nav {
+    margin-bottom: 10px;
+}
